@@ -1,0 +1,11 @@
+.comments {
+  max-width: 300px;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.commentsDiv {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
